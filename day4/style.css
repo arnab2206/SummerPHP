@@ -1,0 +1,103 @@
+#wrapper{
+    width: 100%;
+    margin: 0px auto;
+}
+
+#header{
+    width:100%;
+    height:150px;
+    background-color: brown;
+}
+
+#header1{
+    width: 50%;
+    height:150px;
+    background-color: blue;
+    float:left;
+}
+#header2{
+    width: 50%;
+    height:150px;
+    background-color: red;
+    float:left;
+}
+#left{
+    width: 20%;
+    height: 500px;
+    background-color: burlywood;
+    float:left;
+    vertical-align: middle;
+}
+#left1{
+    width:100%;
+    height:150px;
+    float:left;
+    text-align: center;
+}
+#left2{
+    width:100%;
+    height:150px;
+    float:Left;
+    text-align: center;
+}
+#left3{
+    width:100%;
+    height:150px;
+    float: left;
+    text-align: center;
+}
+#content{
+    width: 80%;
+    height: 500px;
+    background-color: beige;
+    float: left;
+    background: url('neymar.jpg');
+    overflow:scroll;
+}
+
+#footer{
+    width:100%;
+    height: 150px;
+    background-color: #c6c6c6;
+    float:left;    
+}
+.box{
+    background-color:#000;
+    color:#FFF;
+    font-weight: bold;
+}
+a{
+      text-decoration:none;
+      color:#000;
+}
+#back
+{
+    background: url(neymar.jpg)repeat-x;
+    height:34px;
+}
+a:hover{
+    font-weight:bo
+        ld;
+    color:#FFF;
+}
+h1,h2{
+    font-size: 17px;
+    color: red;
+    
+}
+
+.img{
+    float:left;
+    margin: 5px;
+}
+
+#content{
+    background: url(neymar.jpg);
+    height:1920px;
+    width:1080px
+    position:fixed;
+    top:250px;
+    left:0px;
+  
+    
+}

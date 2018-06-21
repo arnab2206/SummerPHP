@@ -1,0 +1,35 @@
+
+<html>
+<head>
+<title>Modified Table</title>
+</head>
+<body>
+<table align="center" border="1">
+    <tr><td>First Name : </td><td><input type="text"/><br/></td></tr>
+<tr><td>Last Name : </td><td><input type="text"/><br/></td></tr>
+<tr><td>Email : </td><td><input type="text"/><br/></td></tr>
+<tr><td>Password : </td><td><input type="password" maxlength="8"/><br/></td></tr>
+<tr><td>D.O.B. : </td><td><select>
+<option>Jan</option>
+<option>Feb</option>
+<option>Mar</option>
+</select></td><td>
+<select>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+</select></td><td>
+<select>
+<option>1996</option>
+<option>1997</option>
+<option>1998</option>
+</select><br/></td></tr>
+<tr><td>Gender : </td><td>Male <input type="radio" name="gender" checked/> </td><td>Female <input type="radio" name="gender"/><br/></td></tr>
+<tr><td>I Have : </td><td>Desktop<input type="checkbox" checked/> </td><td>Laptop<input type="checkbox" checked/> </td><td>Mobile<input type="checkbox" checked/><br/></td></tr>
+<tr><td>Address : </td><td><textarea></textarea><br/></td></tr>
+</table>
+    <table align="center">
+    <tr><td><input type="submit"/><br/></td></tr>
+    </table>
+</body>
+</html>
