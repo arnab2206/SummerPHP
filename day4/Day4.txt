@@ -1,0 +1,15 @@
+a  bit messed up page, needs updation
+
+Same format as previous day-day3
+
+image in content added
+text wrapping the image
+
+
+unordered list without bullet
+
+background image instead of colour
+
+one small image repeated along X-Axis
+
+not only "ID" but also "CLASS" used

@@ -1,0 +1,14 @@
+day4 HTML CSS page updated a bit
+
+PHP in HTML
+HTML in PHP
+
+Start of using FORM
+
+Form Action from different PHP Page
+
+Dropdown list using PHP and LOOP
+
+
+
+Taking values from registration form in one PHP Module and Updating in and showing it in the other Module. Checkbox values fetched manually(inefficient) which is updated later on day7.

@@ -1,0 +1,5 @@
+Value fetching and displaying result in same page using PHP
+
+Ex:- 2 values to be added after submit. if values are not present, change textbox colour to red using CSS, is present, then continue.
+if either is not present, colour the textbox not having value only.
+if both present,add and display on the same page. Even after submitting the Submit button,Values should remain in the textboxes using PHP.

@@ -1,0 +1,10 @@
+Registration form at same place as day1
+
+home about contact us at same place
+
+header part1 top left[image to be included]
+header part2 top right[username password to be included]
+
+footer panel at down
+
+ALL ALIGNED USING DIV AND CSS USED. ALL COLOURS AND ETC. PROPERTIES ARE DONE USING CSS.

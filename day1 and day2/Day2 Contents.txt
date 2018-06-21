@@ -1,0 +1,20 @@
+registration form at middle down with
+
+first name
+last name
+email
+password
+DOB
+Gender: M/F
+I have: Desktop/Laptop/Mobile
+Address
+
+
+Home About Contact Us at left
+
+username password at top right
+
+picture at top left and down right
+
+
+ALL ALIGNED USING TABLE[NO DIV USED]

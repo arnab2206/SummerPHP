@@ -1,0 +1,25 @@
+Using of Array in PHP
+
+in line css
+
+use of Print_r
+
+use of foreach loop
+
+using _REQUEST instead of _GET or _POST
+
+Previous Day folder contains exact previous day contents
+
+File Uploading using PHP[ use get-2kb, use post-unlimited]
+
+ENCTYPE must
+
+requesting uploaded files
+
+moving uploaded files to a particular folder
+
+displaying properties of an uploaded file
+
+restricting upload of particular file types/allowing only particular file types to be uploaded for example JPG/PNG.
+
+displaying the uploaded picture after uploading[not done  in class].
