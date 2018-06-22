@@ -1,0 +1,7 @@
+Function implementation examples in PHP
+->With return
+->without return
+
+Ex: Input 2 no.s. 3radio buttons to choose 1. add 2. product 3. both and display result in same page using switch case,one function only,with return type and only one function call.
+
+Cookie in PHP. Displaying 2 values cookied from one page to another and calling the page using HEADER() and not FORM ACTION="".
