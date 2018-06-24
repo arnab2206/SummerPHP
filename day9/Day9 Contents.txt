@@ -1,0 +1,5 @@
+Use of session in PHP
+
+session function should be called on the 2nd line itself after writing "<?php". even one extra "Enter" is also not allowed else the session will not start and won't even show any error.
+
+session cannot changed by user unlike cookie. it is specifiec for browsers and have different IDs.
